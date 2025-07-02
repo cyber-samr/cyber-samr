@@ -7,8 +7,7 @@ I'm studying for an A.A.S. in Cybersecurity at WCC and completing the Google Cyb
 
 ## Objective
 
-
-I am a mission-driven cybersecurity professional with a background as an ALIMS Marine and a strong foundation in secure systems and operational discipline. I value accountability, data protection, and structured problem-solving, and I am especially drawn to digital forensics and network security. My strengths in communication, investigation, and technical analysis support the security goals of organizations by helping to identify risks, protect critical assets, and respond effectively to threats.
+I'm a former ALIMS Marine now diving into cybersecurity with a strong interest in digital forensics and network security. I care about protecting people and their data, and I bring a disciplined, detail-focused mindset to everything I do. I'm building hands-on skills through the Google Cybersecurity Certificate and college coursework, and I’m excited to help organizations stay ahead of threats and make smarter security decisions.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
