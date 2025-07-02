@@ -8,8 +8,7 @@ I'm studying for an A.A.S. in Cybersecurity at WCC and completing the Google Cyb
 ## Objective
 
 
-Former ALIMS Marine transitioning into cybersecurity with a focus on network security, digital forensics, and threat detection. Currently gaining hands-on experience through the Google Cybersecurity Certificate and seeking a Tier 1 SOC Analyst role.
-
+I am a mission-driven cybersecurity professional with a background as an ALIMS Marine and a strong foundation in secure systems and operational discipline. I value accountability, data protection, and structured problem-solving, and I am especially drawn to digital forensics and network security. My strengths in communication, investigation, and technical analysis support the security goals of organizations by helping to identify risks, protect critical assets, and respond effectively to threats.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
