@@ -30,7 +30,7 @@ These are my notes based on the eight CISSP (Certified Information Systems Secur
 - Tools: Role-based access, MFA, SSO
 
 ## 6. Security Assessment and Testing
-- Focus: Finding vulnerabilities before attackers do
+- Focus: Finding vulnerabilities before attackers do. A security professional conducts security control testing; collects and analyzes data; and performs security audits to monitor for risks, threats, and vulnerabilities.
 - Key practices: Penetration testing, auditing permissions, and control testing
 
 ## 7. Security Operations
