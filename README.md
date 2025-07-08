@@ -54,6 +54,7 @@ Former ALIMS Marine pursuing a career in cybersecurity with a focus on digital f
 - [Risk & Vulnerability Awareness](notes/risks-and-threats.md)
 - [Frameworks and Controls Notes](notes/frameworks-and-controls.md)
 - [CIA Triad Notes](./notes/cia-triad.md)
+- [NIST Cybersecurity Framework v2.0 Notes](./notes/nist-csf-v2.md)
 - [Linux File Permissions](./notes/linux-basics.md) *(coming soon)*
 ## 🚧 In Progress
 - SOC Workflow Study Notes
