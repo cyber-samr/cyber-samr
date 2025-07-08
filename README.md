@@ -21,7 +21,7 @@ Former ALIMS Marine pursuing a career in cybersecurity with a focus on digital f
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+[coming soon]]
 
 ### Network
 <div>
@@ -44,15 +44,13 @@ Former ALIMS Marine pursuing a career in cybersecurity with a focus on digital f
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+## 📚 Notes
+
+- [CISSP Domain Summary](./notes/cissp-domains.md)
+- [Linux File Permissions](./notes/linux-basics.md) *(coming soon)*
+## 🚧 In Progress
+- SOC Workflow Study Notes
+- SQL Filtering Lab Notes
