@@ -5,7 +5,7 @@ These are my notes based on the eight CISSP (Certified Information Systems Secur
 ---
 
 ## 1. Security and Risk Management
-- Focus: Security goals, risk mitigation, compliance, and ethics
+- The focus of the security and risk management domain is defining security goals and objectives, risk mitigation, compliance, business continuity, and regulations.
 - Key concepts: InfoSec, incident response, business continuity, GDPR, and security posture
 - Tools: Playbooks, training programs
 
