@@ -58,3 +58,53 @@ The CSF helps organizations:
 - Improve resilience to cyber threats
 
 Whether you're working in healthcare, finance, education, or government, understanding and applying the NIST CSF is a foundational cybersecurity skill.
+
+## 🔐 NIST CSF v2.0: Core Functions Overview
+
+The **NIST Cybersecurity Framework (CSF)** outlines six core functions that guide organizations in managing cybersecurity risks, implementing proactive defense strategies, and recovering from incidents. These functions serve as a roadmap for securing people, data, and assets across industries.
+
+---
+
+### 1. 🏛️ Govern *(New in v2.0)*
+Focuses on establishing organizational structures, strategies, and leadership oversight for managing cybersecurity risk.  
+➡️ [Click here to view the full Govern section](#govern-new-in-csf-v20)
+
+---
+
+### 2. 🧭 Identify
+Involves understanding the cybersecurity risks to systems, assets, data, and capabilities. Analysts may be tasked with monitoring systems and inventories to pinpoint vulnerabilities and exposures before they are exploited.
+
+> 📌 *Example:* Monitor internal network systems to detect risky configurations or outdated software.
+
+---
+
+### 3. 🛡️ Protect
+Focuses on developing and implementing safeguards like policies, procedures, access controls, and awareness training to ensure critical services can continue during a cyber event.
+
+> 📌 *Example:* Review historical threat data to revise password policies or user training modules.
+
+---
+
+### 4. 👁️ Detect
+Involves implementing tools and processes to quickly identify when a cybersecurity event is happening. This includes monitoring anomalies and security alerts.
+
+> 📌 *Example:* Validate a new SIEM tool's configuration to ensure it flags low, medium, and high-risk activity appropriately.
+
+---
+
+### 5. 🚨 Respond
+Deals with taking action after a security incident occurs. This includes containment, analysis, communication, and implementing improvements to processes.
+
+> 📌 *Example:* Collaborate with your team to analyze log data from a breach, document the findings, and improve the incident response playbook.
+
+---
+
+### 6. ♻️ Recover
+Focuses on restoring any capabilities or services that were impaired due to a cybersecurity incident. Recovery plans help minimize the impact and restore normal operations.
+
+> 📌 *Example:* Help recover encrypted financial data after a ransomware attack by restoring from secure backups.
+
+---
+
+Each function works together—proactively and reactively—to build a complete cybersecurity strategy that helps organizations stay resilient in the face of threats.
+
