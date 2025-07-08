@@ -11,6 +11,18 @@ CSF v2.0 includes **six core functions**:
 1. **Govern** (new)
    - Emphasizes the importance of cybersecurity governance
    - Supports strategic risk management and oversight
+### 🏛️ Govern (New in CSF v2.0)
+
+The **Govern** function is a significant update introduced in CSF v2.0. It emphasizes the importance of strong cybersecurity governance across all levels of an organization. This function focuses on establishing and maintaining the structures and processes necessary to effectively manage cybersecurity risk.
+
+Key responsibilities under the Govern function include:
+
+- Setting clear cybersecurity objectives
+- Ensuring leadership and executive commitment
+- Developing and implementing a comprehensive risk management strategy
+- Continuously improving cybersecurity performance
+
+This function ensures that cybersecurity is treated as a critical part of an organization’s overall risk strategy, helping align security practices with business priorities.
 
 2. **Identify**
    - Understand organizational context, assets, and risks
