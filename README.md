@@ -50,6 +50,7 @@ Former ALIMS Marine pursuing a career in cybersecurity with a focus on digital f
 ## 📚 Notes
 
 - [CISSP Domain Summary](./notes/cissp-domains.md)
+- [NIST RMF Summary](./notes/rmf.md)
 - [Linux File Permissions](./notes/linux-basics.md) *(coming soon)*
 ## 🚧 In Progress
 - SOC Workflow Study Notes
