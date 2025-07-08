@@ -1,7 +1,8 @@
-🧠 Risk Management Framework (RMF) - NIST
+#  🧠 Risk Management Framework (RMF) - NIST
 The RMF provides a structured process for integrating security and risk management activities into the system development life cycle (SDLC).
 
 📋 Steps:
+
 Prepare – Get the organization and system ready to manage security and privacy risks.
 
 Categorize – Identify what kind of data the system handles and how critical or sensitive it is.
