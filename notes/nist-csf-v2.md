@@ -24,53 +24,6 @@ Key responsibilities under the Govern function include:
 
 This function ensures that cybersecurity is treated as a critical part of an organization’s overall risk strategy, helping align security practices with business priorities.
 
-2. **Identify**
-   - Understand organizational context, assets, and risks
-
-3. **Protect**
-   - Implement safeguards to ensure delivery of services
-
-4. **Detect**
-   - Identify cybersecurity events quickly and effectively
-
-5. **Respond**
-   - Take appropriate action after a detected incident
-
-6. **Recover**
-   - Restore capabilities or services impacted by an incident
-
----
-
-## 🔗 Key Updates in CSF v2.0
-
-- Addition of the **Govern** function
-- Greater emphasis on **supply chain risk management**
-- Improved alignment with international standards
-- Refined focus on outcomes over controls
-
----
-
-## 🔍 Why It Matters
-
-The CSF helps organizations:
-- Align security efforts with business goals
-- Prioritize risk management
-- Improve resilience to cyber threats
-
-Whether you're working in healthcare, finance, education, or government, understanding and applying the NIST CSF is a foundational cybersecurity skill.
-
-## 🔐 NIST CSF v2.0: Core Functions Overview
-
-The **NIST Cybersecurity Framework (CSF)** outlines six core functions that guide organizations in managing cybersecurity risks, implementing proactive defense strategies, and recovering from incidents. These functions serve as a roadmap for securing people, data, and assets across industries.
-
----
-
-### 1. 🏛️ Govern *(New in v2.0)*
-Focuses on establishing organizational structures, strategies, and leadership oversight for managing cybersecurity risk.  
-➡️ [Click here to view the full Govern section](#govern-new-in-csf-v20)
-
----
-
 ### 2. 🧭 Identify
 Involves understanding the cybersecurity risks to systems, assets, data, and capabilities. Analysts may be tasked with monitoring systems and inventories to pinpoint vulnerabilities and exposures before they are exploited.
 
@@ -108,3 +61,27 @@ Focuses on restoring any capabilities or services that were impaired due to a cy
 
 Each function works together—proactively and reactively—to build a complete cybersecurity strategy that helps organizations stay resilient in the face of threats.
 
+
+---
+
+## 🔗 Key Updates in CSF v2.0
+
+- Addition of the **Govern** function
+- Greater emphasis on **supply chain risk management**
+- Improved alignment with international standards
+- Refined focus on outcomes over controls
+
+---
+
+## 🔍 Why It Matters
+
+The CSF helps organizations:
+- Align security efforts with business goals
+- Prioritize risk management
+- Improve resilience to cyber threats
+
+Whether you're working in healthcare, finance, education, or government, understanding and applying the NIST CSF is a foundational cybersecurity skill.
+
+## 🔐 NIST CSF v2.0: Core Functions Overview
+
+The **NIST Cybersecurity Framework (CSF)** outlines six core functions that guide organizations in managing cybersecurity risks, implementing proactive defense strategies, and recovering from incidents. These functions serve as a roadmap for securing people, data, and assets across industries.
