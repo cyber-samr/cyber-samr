@@ -130,3 +130,4 @@ To improve Botium Toys’ security posture and align with regulatory compliance:
 - Deploy an **Intrusion Detection System (IDS)**.
 - Classify all assets properly and limit access to sensitive data.
 - Strengthen compliance with **PCI DSS**, **GDPR**, and **SOC** frameworks by ensuring only authorized personnel have access to credit card and personal data, and by adopting secure encryption and password handling procedures.
+# *** End of Botium Toys Audit Report ***
