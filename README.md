@@ -13,7 +13,7 @@ Former ALIMS Marine pursuing a career in cybersecurity with a focus on digital f
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conducting a security audit         | <a href="https://google.com">🧸 Botium Toys - Internal Audit Report</a>|
+| Conducting a security audit         | [🧸 Botium Toys - Internal Audit Report](projects/botium_toys_audit.md) |
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
