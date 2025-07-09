@@ -38,7 +38,8 @@ Cybersecurity analysts use a set of core security principles from OWASP (Open Wo
   Third-party systems may not share your security standards—verify before trusting.
 
 - **Avoid Security by Obscurity**  
-  Don't rely on hiding implementation details as your primary means of security. Rely on sound architectural controls instead.
+  Don't rely on hiding implementation details as your primary means of security. Rely on sound architectural controls instead.  
+  🔗 [Example: OWASP Mobile Top 10 – 2016 Risks](https://owasp.org/www-project-mobile-top-10/2016-risks/)
 
 ---
 
