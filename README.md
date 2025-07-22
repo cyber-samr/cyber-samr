@@ -14,14 +14,24 @@ Former ALIMS Marine pursuing a career in cybersecurity with a focus on digital f
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Conducting a security audit         | [🧸 Botium Toys - Internal Audit Report](projects/botium_toys_audit.md) |
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network analysis - tcpdump |  <a href="https://docs.google.com/document/d/1utqbz37byfjg65mPgx3T4mjdB8nNlgUdoGeGi0w82vk/edit?usp=sharing">Cybersecurity incident report-www.yummyrecipesforme.com </a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[coming soon]]
+[![CIDR Tool](https://www.ipaddressguide.com/images/ipaddressguide.png)](https://www.ipaddressguide.com/cidr)
+| **CIDR to IPv4 Conversion** |
+|-----------------------------|
+| CIDR: `10.0.0.0/24`     |
+| [Calculate] (disabled)     |
+| *Mock form for layout only* |
+| [Visit Live Tool](https://www.ipaddressguide.com/cidr) |
+
+
+
+[more coming soon]]
 
 ### Network
 <div>
