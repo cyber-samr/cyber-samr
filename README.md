@@ -14,9 +14,9 @@ Former ALIMS Marine pursuing a career in cybersecurity with a focus on digital f
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Conducting a security audit         | [🧸 Botium Toys - Internal Audit Report](projects/botium_toys_audit.md) |
-| Conducting a DFIR - NIST|  <a href="https://docs.google.com/document/d/1RT8mnP40KQBDsqyfVX2npbztio4xZi-3DhY6zkbghHE/edit?usp=sharing">Cybersecurity incident report analysis </a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Incident Response Planning and Execution - NIST|  <a href="https://docs.google.com/document/d/1RT8mnP40KQBDsqyfVX2npbztio4xZi-3DhY6zkbghHE/edit?usp=sharing">Cybersecurity incident report analysis </a>|
+| Linux File Permissions         | <a href="https://docs.google.com/document/d/1RGHkOmeC41RozOGCFcAVjma_Umtnkmak6Z_d1RXfgsI/edit?usp=sharing">File permissions in Linux Project </a>|
+|    | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
