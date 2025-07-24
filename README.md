@@ -16,7 +16,7 @@ Former ALIMS Marine pursuing a career in cybersecurity with a focus on digital f
 | Conducting a security audit         | [🧸 Botium Toys - Internal Audit Report](projects/botium_toys_audit.md) |
 | Incident Response Planning and Execution - NIST|  <a href="https://docs.google.com/document/d/1RT8mnP40KQBDsqyfVX2npbztio4xZi-3DhY6zkbghHE/edit?usp=sharing">Cybersecurity incident report analysis </a>|
 | Linux File Permissions         | <a href="https://docs.google.com/document/d/1RGHkOmeC41RozOGCFcAVjma_Umtnkmak6Z_d1RXfgsI/edit?usp=sharing">File permissions in Linux Project </a>|
-|    | SOC Automation Lab|
+| SQL   | <a href="https://docs.google.com/document/d/1JoInkK0usJMeoj-peywRCL5dQYFqpzd0M0IdIiqYwsk/edit?usp=sharing">Apply filters to SQL queries Project </a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
