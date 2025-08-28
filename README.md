@@ -1,13 +1,10 @@
 # Hello, I'm Ryan AKA Cyber-SamR
 <a href="https://linkedin.com/in/ryan-samuels-3818a92b4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## Certifications
+[<img alt="Google Cybersecurity Professional Certificate badge" src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="160">](https://www.credly.com/badges/4468fbe9-04df-4a2a-988a-69e191e56815)
 
 
-
-I'm studying for an A.A.S. in Cybersecurity at WCC and completing the Google Cybersecurity Certificate. Passionate about Linux, SQL, incident response, and automation.
-
-## Objective
-
-Former ALIMS Marine pursuing a career in cybersecurity with a focus on digital forensics, threat detection, and incident response. Currently studying at WCC and completing the Google Cybersecurity Certificate to build hands-on experience with SIEM tools, log analysis, and vulnerability assessments.
+💻 Former ALIMS Marine pursuing a career in cybersecurity with a focus on digital forensics, threat detection, and incident response. Currently working toward an A.A.S. in Cybersecurity at Westchester Community College and recently earned the Google Cybersecurity Professional Certificate, gaining hands-on experience with SIEM tools, log analysis, and vulnerability assessments. I aim to leverage my military discipline, technical background, and proven cybersecurity training to protect systems, investigate threats, and strengthen organizational security.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
@@ -53,10 +50,6 @@ Former ALIMS Marine pursuing a career in cybersecurity with a focus on digital f
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
-## Certifications
-
-## Projects
 
 ## 📚 Notes
 
