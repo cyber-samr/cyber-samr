@@ -1,4 +1,4 @@
-# Hello, I'm Ryan AKA Cyber-SamR
+# Hello, I'm Ryan AKA Cyber-SamR (Loony)
 <a href="https://linkedin.com/in/ryan-samuels-3818a92b4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## Certifications
 [<img alt="Google Cybersecurity Professional Certificate badge" src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="160">](https://www.credly.com/badges/4468fbe9-04df-4a2a-988a-69e191e56815)
