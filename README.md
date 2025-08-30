@@ -51,6 +51,3 @@
 - [OWASP Security Principles](./notes/owasp_security_principles.md)
 - [Security Audits](./notes/security-audits.md)
 - [Linux File Permissions](./notes/linux-basics.md) *(coming soon)*
-## 🚧 In Progress
-- SOC Workflow Study Notes
-- SQL Filtering Lab Notes
