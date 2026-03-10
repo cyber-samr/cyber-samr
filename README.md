@@ -1,7 +1,7 @@
 # Hello, I'm Ryan AKA Cyber-SamR (Loony)
 <a href="https://linkedin.com/in/ryan-samuels-3818a92b4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## 📄 My Résumé
-[![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://cyber-samr.github.io/resume/Ryan_Samuels_Cybersecurity_Resume.pdf)
+[![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1rLtTcgU8DlHj00z411S48lA_0Ij2lVIQ/view)
 ## Certifications
 [<img alt="Google Cybersecurity Professional Certificate badge" src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="160">](https://www.credly.com/badges/4468fbe9-04df-4a2a-988a-69e191e56815)
 
