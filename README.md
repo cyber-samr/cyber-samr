@@ -8,8 +8,6 @@
 
 💻 Former ALIMS Marine pursuing a career in cybersecurity with a focus on digital forensics, threat detection, and incident response. Currently working toward an A.A.S. in Cybersecurity at Westchester Community College and recently earned the Google Cybersecurity Professional Certificate, gaining hands-on experience with SIEM tools, log analysis, and vulnerability assessments. I aim to leverage my military discipline, technical background, and proven cybersecurity training to protect systems, investigate threats, and strengthen organizational security.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Conducting a security audit         | [🧸 Botium Toys - Internal Audit Report](projects/botium_toys_audit.md) |
